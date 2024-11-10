@@ -1,0 +1,5 @@
+.images {
+    background-image:url("/public/video-back.jpg") ;
+    height:90vh;
+    background-size: cover;
+}
